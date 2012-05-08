@@ -1,10 +1,11 @@
 // Backbone.ModelBinding v0.5.0
 //
 // Copyright (C)2011 Derick Bailey, Muted Solutions, LLC
+// Additions Copyright (C)2012 Benjamin M. Strozykowski, Exclamation Labs
 // Distributed Under MIT Liscene
 //
 // Documentation and Full Licence Availabe at:
-// http://github.com/derickbailey/backbone.modelbinding
+// https://github.com/ExclamationLabs/backbone.modelbinding
 //
 // ----------------------------
 // Backbone.ModelBinding
